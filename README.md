@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, C#, C+, Javascript**
 
-- 🧠 I know: **Python**, C++, HTML and CSS. (**Bold** = I know well)
+- 🧠 I know: **Python**, Typescript, C++, **HTML** and **CSS**. (**Bold** = I know well)
 
 
 - 👨‍💻 All of my projects are available at [N/A At this moment.](N/A At this moment.)
