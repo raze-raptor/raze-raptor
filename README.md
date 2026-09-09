@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently working on **AudioFix**
 
-- 🌱 I’m currently learning **C++, C#, C+, Javascript**
+- 🌱 I’m currently learning **C++, C#, C+, Low Level Systems**
 
-- 🧠 I know: **Python**, Typescript, C++, **HTML** and **CSS**. (**Bold** = I know well)
+- 🧠 I know: Python, Typescript, C++
 
 
-- 👨‍💻 All of my projects are available at [N/A At this moment.](N/A At this moment.)
+- 👨‍💻 All of my projects will be available in [my portfolio](https://github.com/raze-raptor/TypescriptPortfolio)
 
-- 💬 Ask me about **Python and Front End**
+- 💬 Ask me about **Python and Front End Development**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
